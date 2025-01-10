@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Asus Pc\\Downloads\\mysql-connector-java-8.0.20.jar",
+        "c:\\Users\\Asus Pc\\Downloads\\jdatepicker-1.3.4.jar"
+    ]
+}
